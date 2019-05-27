@@ -1,0 +1,29 @@
+E:\Ass2C\Ass2C\bin\Debug\Ass2C.exe.config
+E:\Ass2C\Ass2C\bin\Debug\Ass2C.exe
+E:\Ass2C\Ass2C\bin\Debug\Ass2C.pdb
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.csprojResolveAssemblyReference.cache
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.Form1.resources
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.Properties.Resources.resources
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.csproj.GenerateResource.Cache
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.exe
+E:\Ass2C\Ass2C\obj\Debug\Ass2C.pdb
+F:\NWU 2019\Ass2C\Ass2C\bin\Debug\Ass2C.exe.config
+F:\NWU 2019\Ass2C\Ass2C\bin\Debug\Ass2C.exe
+F:\NWU 2019\Ass2C\Ass2C\bin\Debug\Ass2C.pdb
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.csprojAssemblyReference.cache
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.Form1.resources
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.Properties.Resources.resources
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.csproj.GenerateResource.cache
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.csproj.CoreCompileInputs.cache
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.exe
+F:\NWU 2019\Ass2C\Ass2C\obj\Debug\Ass2C.pdb
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\bin\Debug\Ass2C.exe.config
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\bin\Debug\Ass2C.exe
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\bin\Debug\Ass2C.pdb
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.csprojAssemblyReference.cache
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.Form1.resources
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.Properties.Resources.resources
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.csproj.GenerateResource.cache
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.csproj.CoreCompileInputs.cache
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.exe
+F:\NWU 2019\Demo ITRW316\Ass2C\Ass2C\obj\Debug\Ass2C.pdb
